@@ -1,0 +1,55 @@
+.about{
+    padding: 20px;
+    margin: -35px;
+}
+
+.about_intro{
+    font-size: 1.1rem;
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.about_container{
+    background-color: #dbdddf;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.about_heading{
+    font-size: 25px;
+    font-weight: 700;
+    color: #354358;
+    margin-left: 10px;
+    
+}
+
+/* skillcard */
+
+.skill-card{
+    background-color: #fff;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+.skill-card_icon{
+    width: 40px;
+    height: 40px;
+}
+
+.skill-card-body{
+    margin-left: 15px;
+}
+
+.skill_card_content{
+    margin: 0;
+    font-style: 0.9rem;
+    color: #6e7e91;
+}
+
+/* serticard */
+.margin-t{
+    margin: 0 0 30px 0;
+}

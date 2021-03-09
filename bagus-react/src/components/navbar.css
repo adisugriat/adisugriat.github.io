@@ -1,0 +1,24 @@
+.navbar_items{
+    display: flex;
+}
+
+.navbar_active{
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(49, 155, 155);
+    border-bottom: 4px solid rgb(0, 0, 0);
+}
+
+.navbar_item{
+    margin-right: 20px;
+    text-decoration: none;
+    color: rgb(218, 109, 109);
+    cursor: pointer;
+}
+
+.navbar_item:hover{
+    background: -webkit-linear-gradient(rgb(0, 0, 0), blue);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
